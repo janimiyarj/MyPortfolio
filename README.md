@@ -8,10 +8,12 @@ Welcome to my portfolio! I am a Data Scientist and Graduate Research Assistant w
 - **GitHub:** [github.com/janimiyarj](https://github.com/janimiyarj)
 
 ## Skills
-- **Programming Languages:** Python, R, Java, C/C++, JavaScript, HTML5, C#, CSS3
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, Flask, React
+- **Programming Languages:** Python, R, Java, C/C++, JavaScript, HTML5, C#, CSS3, XML, XPATH, Scala
+- **Frameworks & Libraries:** Flask, React, Angular, Bootstrap, Snowflake, NoSQL, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, PySpark, Plotly, Numpy, Pandas, SciPy, Hive, Databricks
 - **Databases:** SQL, MongoDB, Snowflake
-- **Tools:** Tableau, Power BI, Git, AWS, GCP
+- **Tools:** Selenium, AWS, GCP, Tableau, Power BI, ArcGIS, Git, GitHub, Microsoft Excel, Hadoop, Apache Spark
+- **Project Management:** Agile methodology, Teamwork, oral communication, presentation, Analytical thinking, problem-solving,
+decision-making, cross-functional, organization
 
 ## Projects
 Here are some of my notable projects:
@@ -87,11 +89,11 @@ Here are some of my notable projects:
 - Improved loan prediction accuracy by optimizing the Random Forest algorithm, achieving an 84% accuracy rate through precision, recall, and F1 score evaluation, providing actionable insights for decision-making.
 
 ## Education
-- **Master of Science, Big Data Analytics** - San Diego State University (Aug 2023 – May 2025) | GPA: 3.8/4.0
+- **Master of Science, Big Data Analytics** - San Diego State University (Aug 2023 – May 2025) | GPA: 3.85/4.0
 - **Bachelor of Engineering, Electronics and Communication** - Chaitanya Bharathi Institute of Technology (May 2017 – July 2021) | GPA: 3.8/4.0
 
 ## Certifications
-- [List any certifications relevant to data science or programming]
-
+- Azure Microsoft Data Engineer Certificate
+  
 ## Acknowledgments
 Thank you for visiting my portfolio! Feel free to reach out for collaborations or inquiries.
